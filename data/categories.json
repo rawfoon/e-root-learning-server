@@ -11,7 +11,7 @@
             "After the course you will be able to build ANY website you want."
             ],
 
-        "video-duration" : "150",
+        "video_duration" : "150",
         "module": "70",
         "resourses": "150",
         "rating": "4.9"
@@ -32,7 +32,7 @@
             "Learn photo editing and manipulation in Adobe Photoshop"
             ],
 
-        "video-duration" : "130",
+        "video_duration" : "130",
         "module": "50",
         "resourses": "120",
         "rating": "4.6"
@@ -46,11 +46,11 @@
         "overview": [
             "You can build any Android app you can think of. No matter if it is an idea that you or your friends have, or if it is a contract job that you need to develop.",
             "You will build Apps for your portfolio to apply for jr. Android developer Jobs.",
-            "You'll be able to work as an Android freelancer and work from anywere in the world.",
+            "You'll be able to work as an Android freelancer and work from anywhere in the world.",
             "Publish your apps on Google Play and generate revenue with Google Pay and Google Ads"
             ],
 
-        "video-duration" : "100",
+        "video_duration" : "100",
         "module": "42",
         "resourses": "125",
         "rating": "4.8"
@@ -67,7 +67,7 @@
             "Install a hacking lab & needed software (on Windows, OS X and Linux)."
             ],
 
-        "video-duration" : "68",
+        "video_duration" : "68",
         "module": "32",
         "resourses": "105",
         "rating": "4.7"
@@ -85,7 +85,7 @@
             "Make powerful analysis"
             ],
 
-        "video-duration" : "110",
+        "video_duration" : "110",
         "module": "60",
         "resourses": "101",
         "rating": "4.7"
@@ -103,7 +103,7 @@
             "Discover the logic behind decision trees"
             ],
 
-        "video-duration" : "80",
+        "video_duration" : "80",
         "module": "60",
         "resourses": "115",
         "rating": "4.7"

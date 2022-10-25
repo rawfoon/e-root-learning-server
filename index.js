@@ -16,6 +16,13 @@ app.get('/categoris', (req, res)=>{
     res.send(categories)
 })
 
+app.get('/course/:id', (req, res)=>{
+    const id= req.params.id
+    const selectedCourse = categories.find(c => c.id === id )
+    res.send(selectedCourse)
+
+})
+
 app.listen(port, ()=>{
     console.log('e-root learning on port', port)
 })
