@@ -1,11 +1,113 @@
 [
     {
-        "category_id": "1",
-        "category_name": "Web Development"
+        "id": "1",
+        "name": "Web Development",
+        "img": "https://i.ibb.co/z5ZT2pY/Web-Development.png",
+        "shorts": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
+        "overview": [
+            "You will build 16 web development projects for your portfolio, ready to apply for junior developer jobs.",
+            "You will learn the latest technologies, including Javascript, React, Node and even Web3 development.",
+            "You will master both front and back-end development, becoming a full-stack developer by the end of the course.",
+            "After the course you will be able to build ANY website you want."
+            ],
+
+        "video-duration" : "150",
+        "module": "70",
+        "resourses": "150",
+        "rating": "4.9"
+        
+
+
+
     },
     {
-        "category_id": "2",
-        "category_name": "Graphics Design"
+        "id": "2",
+        "name": "Graphics Design",
+        "img": "https://i.ibb.co/R9yK17w/Graphics-Design.png",
+        "shorts": "The Ultimate Graphic Design Course Which Covers Photoshop, Illustrator, InDesign,Design Theory, Branding and Logo Design",
+        "overview": [
+            "Have a deep understanding of typography, color theory, photos, layout, blocking and other design theory and skills",
+            "Understand and learn the essential tools and capabilities of Adobe Photoshop, Illustrator and InDesign",
+            "Create logos and branding packages for potential clients",
+            "Learn photo editing and manipulation in Adobe Photoshop"
+            ],
+
+        "video-duration" : "130",
+        "module": "50",
+        "resourses": "120",
+        "rating": "4.6"
+
+    },
+    {
+        "id": "3",
+        "name": "App Development",
+        "img": "https://i.ibb.co/VxjhTFJ/App-Development.png",
+        "shorts": "Learn Android 12 App Development From Beginner to Advanced Developer. Build Apps like Trello, 7Min Workout, Weather App",
+        "overview": [
+            "You can build any Android app you can think of. No matter if it is an idea that you or your friends have, or if it is a contract job that you need to develop.",
+            "You will build Apps for your portfolio to apply for jr. Android developer Jobs.",
+            "You'll be able to work as an Android freelancer and work from anywere in the world.",
+            "Publish your apps on Google Play and generate revenue with Google Pay and Google Ads"
+            ],
+
+        "video-duration" : "100",
+        "module": "42",
+        "resourses": "125",
+        "rating": "4.8"
+    },
+    {
+        "id": "4",
+        "name": "Ethical Hacking",
+        "img": "https://i.ibb.co/XSJpR3S/Ethical-Hacking.png",
+        "shorts": "Become an ethical hacker that can hack computer systems like black hat hackers and secure them like security experts.",
+        "overview": [
+            "135+ ethical hacking & security videos.",
+            "Start from 0 up to a high-intermediate level.",
+            "Learn ethical hacking, its fields & the different types of hackers.",
+            "Install a hacking lab & needed software (on Windows, OS X and Linux)."
+            ],
+
+        "video-duration" : "68",
+        "module": "32",
+        "resourses": "105",
+        "rating": "4.7"
+       
+    },
+    {
+        "id": "5",
+        "name": "Machine Learning",
+        "img": "https://i.ibb.co/f025QGF/Machine-Learning.png",
+        "shorts": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+        "overview": [
+            "Master Machine Learning on Python & R",
+            "Have a great intuition of many Machine Learning models",
+            "Make accurate predictions",
+            "Make powerful analysis"
+            ],
+
+        "video-duration" : "110",
+        "module": "60",
+        "resourses": "101",
+        "rating": "4.7"
+       
+    },
+    {
+        "id": "6",
+        "name": "Data Science",
+        "img": "https://i.ibb.co/0XgSnz3/Data-science-1.png",
+        "shorts": "Master Data Science & Machine Learning in Python: Numpy, Pandas, Matplotlib, Scikit-Learn, Machine Learning, and more!",
+        "overview": [
+            "Gain familiarity with Pandas, a data analysis tool",
+            "Get a grasp on the theory behind basic and multiple linear regression",
+            "Tackle regression problems easily",
+            "Discover the logic behind decision trees"
+            ],
+
+        "video-duration" : "80",
+        "module": "60",
+        "resourses": "115",
+        "rating": "4.7"
+       
     }
 
 ]
